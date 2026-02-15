@@ -1,2 +1,2 @@
-print("hi")
-exit()
+def loader(a):
+    return a
